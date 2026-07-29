@@ -3,7 +3,7 @@ export default function About() {
     <section className="about" id="apropos">
       <div className="wrap about-grid">
         <div className="about-figure">
-          <img src="/assets/soin-visage.jpg" alt="Institut Selima Beauty & Spa" />
+          <img src="/assets/about-services.png" alt="Nos prestations Selima Beauty & Spa" />
           <div className="ring"></div>
         </div>
         <div className="about-text">
