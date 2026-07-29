@@ -21,7 +21,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="hero-visual">
-          <img src="/assets/soin-visage.jpg" alt="Soin visage chez Selima Beauty & Spa" />
+          <img src="/assets/hero-spa.png" alt="Moment de détente chez Selima Beauty & Spa" />
           <div className="hero-tag">
             <b>{contact.phone}</b>
             Réservez votre rendez-vous dès maintenant
