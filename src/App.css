@@ -149,7 +149,7 @@ section { padding: 110px 0; position: relative; }
 
 /* ABOUT */
 .about { background: var(--ivory-deep); }
-.about-grid { display: grid; grid-template-columns: 1.20fr 0.95fr; gap: 70px; align-items: center; }
+.about-grid { display: grid; grid-template-columns: 0.75fr 1.25fr; gap: 70px; align-items: center; }
 .about-figure { position: relative; }
 .about-figure img {
   border-radius: 2px;
