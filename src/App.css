@@ -42,15 +42,14 @@ h1, h2, h3 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 18px 40px;
+  padding: 10px 40px;
   background: rgba(250, 245, 236, 0.86);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--line);
 }
 
 .brandmark { display: flex; align-items: center; gap: 12px; }
-.brandmark img { height: 90px; width: auto; }
-
+.brandmark img { height: 110px; width: auto; }
 .site-header nav ul { display: flex; gap: 34px; }
 .site-header nav a {
   font-size: 0.85rem;
