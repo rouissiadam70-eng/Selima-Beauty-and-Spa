@@ -49,7 +49,7 @@ h1, h2, h3 {
 }
 
 .brandmark { display: flex; align-items: center; gap: 12px; }
-.brandmark img { height: 42px; width: auto; }
+.brandmark img { height: 60px; width: auto; }
 
 .site-header nav ul { display: flex; gap: 34px; }
 .site-header nav a {
