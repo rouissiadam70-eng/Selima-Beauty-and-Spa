@@ -130,7 +130,7 @@ h1, h2, h3 {
   pointer-events: none;
 }
 .hero-tag {
-  position: absolute; left: -26px; bottom: 34px;
+  position: absolute; left: 24px; bottom: 34px;
   background: var(--ink); color: var(--ivory);
   padding: 16px 22px;
   font-family: 'Marcellus', serif;
