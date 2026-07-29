@@ -4,7 +4,7 @@ export default function Interior() {
       <div className="wrap">
         <div className="section-head interior-head">
           <p className="eyebrow">L'univers Selima</p>
-          <h2>Un havre de calme, au cœur de Raoued</h2>
+          <h2>"Une parenthèse de calme, loin du quotidien"</h2>
           <p className="interior-text">
             Passer la porte de Selima Beauty & Spa, c'est laisser le bruit
             dehors. Lumière chaleureuse, matières nobles, parfums doux — chaque
