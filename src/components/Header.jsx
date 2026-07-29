@@ -12,6 +12,7 @@ export default function Header() {
           <li><a href="#apropos">L'Institut</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#produits">Produits</a></li>
+          <li><a href="#interieur">Galerie</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
