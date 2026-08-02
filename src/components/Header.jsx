@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="site-header">
       <div className="brandmark">
-        <img src="/assets/logo.jpg" alt="Selima Beauty & Spa" />
+        <img src="/assets/logo-transparent.png" alt="Selima Beauty & Spa" />
       </div>
       <nav>
         <ul>
