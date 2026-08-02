@@ -8,7 +8,9 @@ export const contact = {
   address: 'À côté Mosquée Bilel, Route principale Raoued vers El Ghazella',
   instagram: 'https://www.instagram.com/selima_beauty_and_spa/',
   facebook: 'https://www.facebook.com/profile.php?id=61580786764506',
-  mapEmbed: 'https://www.google.com/maps?q=Mosqu%C3%A9e+Bilel,+El+Ghazala,+Raoued,+Ariana,+Tunisia&output=embed',
+  mapEmbed:  'https://www.google.com/maps?q=Mosqu%C3%A9e+Bilel,+El+Ghazala,+Raoued,+Ariana,+Tunisia&output=embed',
+}
+
 export const serviceGroups = [
   {
     title: 'Visage & soins de peau',
