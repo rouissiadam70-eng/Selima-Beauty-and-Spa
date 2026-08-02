@@ -9,6 +9,13 @@ export default function Products() {
           <p className="eyebrow">Produit vedette</p>
           <h2>{p.title}</h2>
         </div>
+        <div className="bottle-decor" aria-hidden="true">
+  <div className="bottle-3d">
+    <div className="bottle-cap"></div>
+    <div className="bottle-body"></div>
+    <div className="bottle-shine"></div>
+  </div>
+</div>
         <div className="product-card">
           <img src={p.image} alt={`${p.title} ${p.brand}`} />
           <div className="product-info">
